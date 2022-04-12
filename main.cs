@@ -20,7 +20,7 @@ class Program
         fahrenheit = float.Parse(Console.ReadLine());
 
         //Process
-        celsius = ((fahrenheit - 32) * 5/9);
+        celsius = ((fahrenheit - 32) * 5 / 9);
 
         //Output
         Console.WriteLine("");
